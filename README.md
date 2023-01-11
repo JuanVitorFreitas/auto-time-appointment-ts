@@ -7,4 +7,4 @@ npm run dev
 yarn dev
 ```
 
-Hit on *http://localhost:3333* with data on body.
+Hit on *http://localhost:3333* with data on req.body.
