@@ -1,4 +1,5 @@
-Hello World
+Hello World.
+
 First, run the development server:
 
 ```bash
